@@ -1,11 +1,16 @@
-# Water Level Detector and Controller
+# Water-Level-Detector-and-Controller
 Water Level Detector and Controller 
 An NodeMCU based automatic water level controller and indicator project. Here, we are going to measure the water level by using help of ultrasonic sensors.
+components used:
 
-#### Components used:
- * NodeMCU
- * Micro submersible water pump.
- * Ultra sonic sensor
- * Buzzer
- * Push button
+
+ 1.NodeMCU ![](node.jpg)
+ 
+ 2.Micro submersible water pump. ![](pump.jpg)
+ 
+ 3. Ultra sonic sensor ![](ultra.jpg)
+ 
+ 4. Buzzer ![](buzzer.jpg)
+ 
+ 5. Push button ![](button.jpg)
  
